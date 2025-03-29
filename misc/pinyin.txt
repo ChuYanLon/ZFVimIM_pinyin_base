@@ -4702,6 +4702,7 @@ diaomanqiaogongzhu 刁蛮俏公主
 diaomao 窵髦
 diaomu 掉木
 diaorenminbi 掉人民币
+diaosi 屌丝
 diaotou 吊头
 diaotu 吊图
 diaowu 吊五
@@ -24671,6 +24672,7 @@ wangmanyuzhaiguan 王曼昱摘冠
 wangmeimei 王妹妹
 wangmingyue 望明月
 wangmu 亡母
+wangnima 王尼玛
 wangnuannuan 王暖暖
 wangpaifeixingyuan 亡牌飞行员
 wangpaijingsu 王牌竞速
@@ -34514,5 +34516,3 @@ zushinai 祖师奶
 zuxiebeijuesai 足协杯决赛
 zuxiekaihuifansi 足协开会反思
 zuyi 组一
-diaosi 屌丝
-wangnima 王尼玛

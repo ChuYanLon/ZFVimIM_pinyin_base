@@ -8,7 +8,7 @@ bei 1
 ben 4
 bi 1
 bu 8
-cao 1
+cao 2
 chang 1
 chu 2
 chunjie 2
@@ -69,7 +69,7 @@ mu 1
 nei 1 1
 ni 63
 nian 2
-nihao 45
+nihao 46
 nihaoshijianwohenxihuan 5
 niu 2
 nizhidaobu 1
@@ -95,6 +95,7 @@ tai 1
 tian 4
 tiao 1
 wa 1
+wangnima 1
 wen 7
 wo 27
 wu 2
