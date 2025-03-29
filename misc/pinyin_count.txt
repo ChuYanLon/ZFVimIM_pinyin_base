@@ -6,7 +6,7 @@ bang 1
 bao 2
 bei 1
 ben 4
-bi 1
+bi 3
 bu 8
 cao 2
 chang 1
@@ -37,7 +37,7 @@ ha 1
 hao 62
 he 2
 hegu 1
-hen 4
+hen 6
 hou 2
 hua 1
 huang 1
@@ -69,9 +69,9 @@ mu 1
 nei 1 1
 ni 63
 nian 2
-nihao 46
+nihao 47
 nihaoshijianwohenxihuan 5
-niu 2
+niu 4
 nizhidaobu 1
 nv 1
 o 1
@@ -95,7 +95,7 @@ tai 1
 tian 4
 tiao 1
 wa 1
-wangnima 1
+wangnima 2
 wen 7
 wo 27
 wu 2
