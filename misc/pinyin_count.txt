@@ -70,7 +70,7 @@ mu 1
 nei 1 1
 ni 63
 nian 2
-nihao 49
+nihao 50
 nihaoshijianwohenxihuan 5
 niu 4
 nizhidaobu 1
