@@ -58,6 +58,7 @@ le 4
 li 8
 liao 1
 lie 2
+liebiao 1
 long 1
 ma 4 2
 mao 1
