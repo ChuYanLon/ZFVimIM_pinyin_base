@@ -69,7 +69,7 @@ mu 1
 nei 1 1
 ni 63
 nian 2
-nihao 48
+nihao 49
 nihaoshijianwohenxihuan 5
 niu 4
 nizhidaobu 1
@@ -107,7 +107,7 @@ xin 2
 xiu 1
 xu 6
 xuan 3
-ya 2
+ya 3
 yao 6
 yi 3
 yizhi 1
