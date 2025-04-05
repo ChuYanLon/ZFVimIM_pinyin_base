@@ -205,7 +205,7 @@ fuci 1
 fuheju 1
 fuwuqi 2
 g 9
-gagaga 4
+gagaga 6
 gai 4 1
 gaicheng 5
 gaiyong 1
@@ -450,7 +450,7 @@ nichuliyixia 1
 niha 3
 nihao 228
 nihaoshijianwohenxihuan 5
-nihaoya 1
+nihaoya 3
 nijuede 5
 nikeyi 6
 nima 1
