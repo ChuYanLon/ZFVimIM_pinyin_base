@@ -261,6 +261,7 @@ hecheng 2
 hegu 1
 hei 1
 hen 8
+henkaix 1
 henlei 2
 henshen 1
 henwuliao 2
@@ -653,7 +654,7 @@ woxian 3
 woxiang 9
 woxiangyaode 1
 woxiangzhe 1
-woxianz 22
+woxianz 24
 woxianzyoudian 1
 woxihuanni 2
 woxihuanyigenvhaihenmeiyehenshanliang 1
