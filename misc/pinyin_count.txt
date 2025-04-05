@@ -71,7 +71,7 @@ buzhongyao 1
 cai 4
 cao 3
 caozuo 6
-ceshi 14
+ceshi 16
 cha 3
 chabuduo 1
 chajian 4
@@ -205,6 +205,7 @@ fuci 1
 fuheju 1
 fuwuqi 2
 g 9
+gagag 1
 gagaga 6
 gai 4 1
 gaicheng 5
@@ -251,7 +252,7 @@ hang 3
 hanshu 20
 hao 64 4
 haol 1
-haole 2
+haole 6
 haoshu 1
 haowande 1
 haox 1
@@ -715,6 +716,7 @@ xiqiyangyguodan 5
 xitong 2
 xiu 1
 xiwang 1
+xixi 1
 xiyangyyuhuitail 1
 xiyouji 1
 xu 6
