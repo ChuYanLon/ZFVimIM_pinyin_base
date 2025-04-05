@@ -9488,6 +9488,7 @@ haokeliane 好可怜哦
 haokeliano 好可怜哦
 haokelianou 好可怜哦
 haokuaia 好快啊
+haol 好了
 haolaike 好莱客
 haolan 好烂
 haolana 好懒啊
@@ -20031,6 +20032,7 @@ nizheshizuoliaoxieshenme 你这是做了些什么
 nizhezhichouchong 你这只臭虫
 nizhi 你知
 nizhichishui 你支持谁
+nizhidao 你知道
 nizhidaoa 你知道啊
 nizhidaobu 你知道不
 nizhidaode 你知道的

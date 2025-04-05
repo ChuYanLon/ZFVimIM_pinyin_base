@@ -45,7 +45,7 @@ bieduozui 1
 bieren 1
 binyu 1
 boke 1
-bu 12
+bu 14
 buchang 1
 budingshi 1
 bugou 1
@@ -71,7 +71,7 @@ buzhongyao 1
 cai 4
 cao 3
 caozuo 6
-ceshi 12
+ceshi 14
 cha 3
 chabuduo 1
 chajian 4
@@ -249,7 +249,9 @@ ha 2
 hai 1
 hang 3
 hanshu 20
-hao 63 4
+hao 64 4
+haol 1
+haole 2
 haoshu 1
 haowande 1
 haox 1
@@ -336,6 +338,7 @@ jiu 2 2
 jiuhenqiguaile 1
 jiushi 15 11
 jiux 1
+jiuyao 2
 jiyao 1 1
 ju 4
 jue 1
@@ -362,7 +365,7 @@ kuai 1
 kuaile 1
 kuaiyidiande 1
 kuang 1
-l 2
+l 3
 lai 7
 laile 3
 lang 1
@@ -396,6 +399,7 @@ lv 1
 ma 8 6
 mama 3
 mao 1
+mashang 2
 mei 3
 meiguor 1
 meile 1
@@ -467,6 +471,7 @@ nixianzaiganmane 2
 nixianzaishi 1
 niyao 4
 nizheli 1
+nizhidao 1
 nizhidaobu 5
 nv 1
 nvren 1
@@ -647,7 +652,7 @@ woxian 3
 woxiang 9
 woxiangyaode 1
 woxiangzhe 1
-woxianz 20
+woxianz 22
 woxianzyoudian 1
 woxihuanni 2
 woxihuanyigenvhaihenmeiyehenshanliang 1
