@@ -205,7 +205,7 @@ fuci 1
 fuheju 1
 fuwuqi 2
 g 9
-gagaga 2
+gagaga 4
 gai 4 1
 gaicheng 5
 gaiyong 1
@@ -444,7 +444,7 @@ nibaba 5
 nibushi 1
 nichuliyixia 1
 niha 3
-nihao 226
+nihao 228
 nihaoshijianwohenxihuan 5
 nihaoya 1
 nijuede 5
@@ -639,7 +639,7 @@ women 3
 womennengweinizuosha 1
 wos 1
 woshanle 2
-woshi 30
+woshi 32
 woshiyaozai 3
 woshiyigezhongwenshurufa 1
 woshizhongguoren 2
@@ -696,6 +696,7 @@ xieyig 1
 xieyige 39
 xieyigte 1
 xieyixia 3
+xiguameimei 1
 xihongsshoufu 1
 xihuameimei 1
 xihuan 2
