@@ -1203,6 +1203,7 @@ beihaijuexing 北海觉醒
 beihaiouyuzuohang 北海偶遇左航
 beihanqilai 被喊起来
 beihou 背后
+beij 北京
 beijijutu 北极巨兔
 beijing 背景
 beijinga 北京啊
@@ -27248,6 +27249,7 @@ waibianju 外边距
 waibucankaowenjian 外部参考文件
 waibucanzhao 外部参照
 waibuyangshibiao 外部样式表
+waiceng 外层
 waichutouma 外出偷马
 waidazhenghao 歪打正好
 waifanmati 外翻马蹄

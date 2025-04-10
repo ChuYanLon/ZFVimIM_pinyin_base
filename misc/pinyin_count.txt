@@ -34,7 +34,8 @@ bao 2
 baochianjing 1
 bcong 1
 bei 2
-beijing 6
+beij 1
+beijing 8
 ben 5
 bendihua 1
 bens 1
@@ -740,6 +741,7 @@ tu 2
 tubiao 3
 w 2
 wa 1
+waiceng 1
 waihuan 5
 wan 1
 wancheng 1
