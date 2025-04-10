@@ -588,11 +588,13 @@ qidongshijian 1
 qidongyige 1
 qiehuan 2
 qilai 1
+qing 1
 qingbangwo 1
 qinggandongc 1
 qingqui 5
 qingrenjie 2
 qingse 1
+qingshuru 1
 qishi 4
 qitade 1
 qizhong 2
@@ -684,7 +686,7 @@ shuo 3
 shuoming 4
 shuotaiduod 1
 shuozhogwen 1
-shuru 10
+shuru 11
 shurukuang 1
 shurushaxiangmu 1
 shushuci 1
