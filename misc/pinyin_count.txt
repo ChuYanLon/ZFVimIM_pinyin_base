@@ -4,6 +4,7 @@ aijiuyigezi 1
 aiqing 4
 aiwujiwu 2
 aiya 1
+an 1
 anhei 1
 anjing 1
 anli 3
@@ -109,7 +110,7 @@ chou 1
 chouli 1
 chu 7
 chuagjian 1
-chuangjian 28
+chuangjian 30
 chuangjianxuni 1
 chuangjianyge 1
 chuangjianyige 6
@@ -147,11 +148,12 @@ dan 2
 danc 1
 danci 9 1
 dande 1
-dang 3
+dang 4
 dangan 13
 dangangongzuo 1
 danganguanli 1
 danganshuliang 1
+dangfa 1
 dangqian 6
 danrandeshi 1
 danreng 1
@@ -211,11 +213,11 @@ eima 1
 elema 1
 en 1
 ergouzi 5
-fa 5
+fa 6
 fade 1
 fanfubai 1
 fang 2
-fangfa 13
+fangfa 15
 fanghfa 1
 fangmian 1
 fangshi 5
@@ -256,7 +258,7 @@ gao 1
 gaoji 2
 gaojizhuagbi 1
 gaojizhuangbi 1
-ge 10 4 2
+ge 14 4 2
 gege 1
 gegefnagm 1
 geng 2
@@ -399,7 +401,7 @@ jintianmeiguoshi 1
 jinxing 2
 jinyog 1
 jisuanji 1
-jiu 6 6
+jiu 7 6
 jiuhenqiguaile 1
 jiushi 15 11
 jiux 1
@@ -464,7 +466,7 @@ lie 4
 liebiao 1
 liji 2
 lijie 2
-limian 15
+limian 17
 limiande 1
 liu 4
 liulanq 1
@@ -598,6 +600,7 @@ qingshuru 1
 qishi 4
 qitade 1
 qizhong 2
+qu 1
 quan 1
 ran 5
 rang 1
@@ -639,6 +642,7 @@ shang 6
 shangsheng 2
 shangxia 1 1
 shangyhue 1
+shao 1
 shashiq 1
 shasi 3
 shasmama 1
@@ -750,13 +754,14 @@ weishenm 3
 weiwo 1
 weiyidongci 1
 weiyu 4 5
-wen 7
+wen 8
 wenda 1
 wendu 4
-wenjian 13
+wenjian 15
 wenjiande 1
 wenjianmingzi 1
 wenjianzhongba 1
+wenjiuan 1
 wensdu 1
 wensidu 1
 wensifdu 1
@@ -873,7 +878,8 @@ yan 1
 yanchi 2
 yangzi 1
 yanse 4
-yao 23
+yao 24
+yaoqui 1
 yaoshi 2
 yaoshixian 1
 yaoyong 1
@@ -1036,6 +1042,7 @@ zong 4
 zongshi 4
 zongshu 4
 zu 1
+zui 1
 zuihao 3
 zuihaode 6
 zuihaoshi 1
@@ -1044,6 +1051,7 @@ zuihoude 1
 zuijia 1
 zuijiandan 3
 zuijiandande 3
+zuishao 1
 zuixiaozhi 1
 zuizuomian 1
 zuji 1

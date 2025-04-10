@@ -4585,6 +4585,7 @@ dangdaioukaidiyiren 当代欧楷第一人
 dangdi 当地
 dangeng 单更
 dangengjiaduangeng 单更加断更
+dangfa 当发
 dangfengbei 挡风被
 danghao 档号
 danghaozhang 档号章
@@ -28291,6 +28292,7 @@ wenjianxitong 文件系统
 wenjianzhongba 文件中把
 wenjie 问界
 wenjieshishenme 问界是什么
+wenjiuan 文九按
 wenjiuzhanhuatuo 温酒斩华佗
 wenjuduo 文具多
 wenjunhuiguzhuang 文俊辉古装
@@ -33097,6 +33099,7 @@ yaoqiangdaqilai 要强大起来
 yaoqianmingbaogeide 要签名包给的
 yaoqishi 耀骑士
 yaoqiu 要求
+yaoqui 要求
 yaorongyaodiancang 瑶荣耀典藏
 yaorunhao 姚润昊
 yaorunhaoyingqile 姚润昊硬气了
@@ -38723,6 +38726,7 @@ zuiqiangzhongcaoji 最强种草机
 zuiqidaide 最期待的
 zuiranbisai 最燃比赛
 zuisanvcaipanzhang 最飒女裁判长
+zuishao 最少
 zuishuainvzhu 最帅女主
 zuishuxidemoshengren 最熟悉的陌生人
 zuisu 最速
