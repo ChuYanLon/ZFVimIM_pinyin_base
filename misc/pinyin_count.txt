@@ -230,12 +230,14 @@ fasongde 1
 fei 1
 feiji 1
 feiweiyu 1
-fen 4
+fen 5
 fengcun 1
 fengex 1
 fenlai 1
 fensi 1
 fenwei 1
+fenz 1
+fenzhong 2
 fou 1
 fuci 1
 fuheju 1
@@ -946,7 +948,7 @@ yufatixi 1
 yulequan 1
 yun 1
 yutai 1
-z 1
+z 2
 zai 44 8
 zaichuangjianyige 1
 zaijiaosilimianyouliagenanhaizi 1
