@@ -245,7 +245,7 @@ fou 1
 fuci 1
 fuheju 1
 fuwuqi 2
-g 9
+g 10
 gagag 1
 gagaga 8
 gai 4 1
@@ -253,6 +253,7 @@ gaicheng 5
 gaiyong 1
 gan 1 1
 ganjue 6
+gansh 1
 gansha 5
 ganshade 1
 gao 1
@@ -536,7 +537,7 @@ nibaba 9
 nibushi 1
 nichuliyixia 1
 niha 9
-nihao 382
+nihao 384
 nihaoshijianwohenxihuan 5
 nihaoya 3
 nihiao 1
@@ -549,6 +550,8 @@ nin 1
 nineng 9 7
 ninenggansha 5
 ninengzuosha 1
+ninne 1
+ninneg 1
 ninneggansha 3
 ninneggnahsa 1
 nishangmian 1
