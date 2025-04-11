@@ -266,7 +266,7 @@ fuci 1
 fuheju 1
 fuwuqi 2
 g 13
-gagag 1
+gagag 3
 gagaga 8
 gai 4 1
 gaicheng 5
@@ -577,8 +577,8 @@ nianyiefan 1
 nibaba 9
 nibushi 1
 nichuliyixia 1
-niha 9
-nihao 396
+niha 11
+nihao 398
 nihaoshijianwohenxihuan 5
 nihaoya 3
 nihiao 1
@@ -824,7 +824,7 @@ wensidu 3
 wensifdu 5
 wensifu 1
 wenti 3
-wenzhang 2
+wenzhang 4
 wenzi 4
 wo 54
 wode 4
