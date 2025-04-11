@@ -442,8 +442,11 @@ kuacangku 1
 kuai 1
 kuaile 1
 kuaiyidiande 1
+kuan 1
+kuandyi 1
 kuang 1
 kuangjia 1
+kuanyidian 1
 l 3
 lai 8
 laijinx 1
@@ -905,7 +908,7 @@ yibanweiyuweiyudongchi 1
 yibiaopan 1
 yibuhanshu 1
 yican 1
-yidian 1
+yidian 2
 yidong 3
 yig 3
 yige 39 29
