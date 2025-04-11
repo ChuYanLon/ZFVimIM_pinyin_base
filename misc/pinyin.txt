@@ -2264,6 +2264,7 @@ bushie 不是哦
 bushige 不是哥
 bushigemen 不是哥们
 bushigongsidongshizhang 不是公司董事长
+bushiguding 不是固定
 bushiguyide 不是故意的
 bushiguyidi 不是故意的
 bushiha 不是哈
@@ -7138,6 +7139,7 @@ fenshouhoutinghong 分手后听红
 fenshoule 分手了
 fenshoutuokouxiu 分手脱口秀
 fenshouxunhuan 分手循环
+fenshu 分数
 fensi 粉丝
 fensidengpai 粉丝灯牌
 fensihuai 粉丝坏

@@ -69,7 +69,8 @@ buneng 3
 bunengzuowei 1
 bunng 1
 buquan 1
-bushi 7
+bushi 8
+bushiguding 1
 bushiong 1
 bushuo 1
 bux 1
@@ -168,7 +169,7 @@ daolemimang 1
 daozhuangju 3
 dashi 2
 daxiao 2
-de 107 2
+de 111 2
 deng 3
 denggegefangmian 1
 di 2
@@ -234,10 +235,11 @@ fasongde 1
 fei 1
 feiji 1
 feiweiyu 1
-fen 5
+fen 6
 fengcun 1
 fengex 1
 fenlai 1
+fenshu 1
 fensi 1
 fenwei 1
 fenz 1
@@ -287,6 +289,7 @@ guai 1
 guan 4
 guanliyuan 2
 guanyu 2 1
+guding 3
 guifan 3
 guigus 1
 guojia 2
@@ -675,7 +678,7 @@ shengcheng 8
 shenm 2
 shenma 4
 shezhi 6
-shi 91 48 2 2
+shi 93 50 2 2
 shibushiyao 1
 shijia 4
 shijian 6
@@ -691,7 +694,7 @@ shiyong 10 3
 shiyongde 3
 shou 6
 shouye 6
-shu 13 4
+shu 14 4
 shuangxiang 1
 shuchu 2
 shufangfa 1
