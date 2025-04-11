@@ -12756,6 +12756,7 @@ jisiwole 急死我了
 jisuan 计算
 jisuanchuangzaoweilai 计算创造未来
 jisuanji 计算机
+jisuanluoji 计算逻辑
 jisuanshuxing 计算属性
 jisuile 几岁了
 jisuiliao 几岁了

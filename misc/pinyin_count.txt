@@ -403,7 +403,9 @@ jinrimubiao 1
 jintianmeiguoshi 1
 jinxing 2
 jinyog 1
+jisuan 1
 jisuanji 1
+jisuanluoji 1
 jiu 7 6
 jiuhenqiguaile 1
 jiushi 15 11
@@ -483,7 +485,7 @@ liuxing 1
 long 1
 lu 1
 lujing 2
-luoji 1
+luoji 2
 lv 1
 ma 13 10
 mama 3
