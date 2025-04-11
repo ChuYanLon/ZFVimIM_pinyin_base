@@ -597,6 +597,7 @@ pengyou 6
 pian 3
 piandi 1
 ping 2
+pingfen 1
 put 1
 qi 5
 qian 4 1
