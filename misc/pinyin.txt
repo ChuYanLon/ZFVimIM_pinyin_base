@@ -28369,6 +28369,7 @@ wenshujianpi 文书件皮
 wenshujuanpi 文书卷皮
 wensidu 温湿度
 wensifdu 温湿度
+wensifu 温湿度
 wentaishi 闻太师
 wentaiyituituan 文泰一退团
 wentaobaichenshan 文韬白衬衫
