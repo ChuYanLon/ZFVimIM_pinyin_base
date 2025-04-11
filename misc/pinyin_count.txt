@@ -790,7 +790,7 @@ wenjianzhongba 1
 wenjiuan 1
 wensdu 1
 wensidu 1
-wensifdu 3
+wensifdu 5
 wenti 3
 wenzhang 2
 wenzi 4
@@ -1017,6 +1017,7 @@ zhezhong 1
 zhezhongde 1
 zhge 1
 zhi 4 2 2
+zhibiao 2
 zhichi 4
 zhidao 6 3
 zhihou 3
