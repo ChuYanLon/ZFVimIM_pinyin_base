@@ -123,7 +123,7 @@ chou 1
 chouli 1
 chu 7
 chuagjian 1
-chuangjian 37
+chuangjian 39
 chuangjianxuni 1
 chuangjianyge 1
 chuangjianyige 6
@@ -956,7 +956,7 @@ yican 1
 yidian 2
 yidong 3
 yig 5
-yige 50 35
+yige 52 37
 yigejinc 1
 yigeyuan 1
 yigongjinlile 1
