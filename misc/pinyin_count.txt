@@ -92,7 +92,7 @@ cao 3
 caozuo 6
 cengji 1
 ceshi 18
-cha 3
+cha 5
 chabuduo 1
 chajian 6
 chajina 1
@@ -368,9 +368,10 @@ jiangyige 10
 jiangyigegushi 3
 jiangyigexiaohua 1
 jiansanxiang 2
-jiao 2 2
+jiao 2 2 2
 jiaoben 2
 jiaobiao 1
+jiaocha 1
 jiaodu 12
 jiazaidonghua 1
 jiazheg 1
