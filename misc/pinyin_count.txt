@@ -48,7 +48,7 @@ bianju 4
 biank 1
 biantai 2
 bianxie 1 1
-biao 3
+biao 3 2
 biaoqian 4
 bieduozui 1
 bieren 1
@@ -592,13 +592,13 @@ pachong 2
 paichu 1
 paingao 1
 pan 2
-peizhi 3
+peizhi 5
 pengren 1
 pengyou 6
 pian 3
 piandi 1
 ping 2
-pingfen 3
+pingfen 5
 put 1
 qi 5
 qian 4 1
@@ -760,8 +760,8 @@ tixi 1
 togbu 1
 tongzhigonggao 1
 tou 4
-tu 2
-tubiao 3
+tu 3
+tubiao 5 1
 w 2
 wa 1
 waiceng 1

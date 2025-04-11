@@ -27078,7 +27078,7 @@ tuanyuanye 团圆夜
 tubao 图包
 tubianmengzhong 秃变孟中
 tubianyingxiongX 凸变英雄x
-tubiao 图标
+tubiao 图标 图表
 tubiaobianjiqi 图表编辑器
 tucao 吐槽
 tuchu 突出
