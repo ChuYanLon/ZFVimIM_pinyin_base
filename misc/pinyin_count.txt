@@ -77,7 +77,7 @@ buxihuan 1
 buxing 2
 buxiwangde 1
 buxuyao 2
-buyao 2
+buyao 4
 buzai 2
 buzhongyao 1
 cai 5
@@ -134,7 +134,7 @@ ciji 1
 cishu 1
 ciyu 11
 cngshouzhe 1
-cong 3
+cong 5
 cun 1
 cuo 1
 cuole 1
@@ -425,7 +425,7 @@ juzifenfen 1
 ka 1
 kai 2
 kais 3
-kaishi 2
+kaishi 4
 kaisyundong 1
 kan 1
 kanzhe 1
@@ -443,9 +443,10 @@ kuaiyidiande 1
 kuang 1
 kuangjia 1
 l 3
-lai 7
+lai 8
 laijinx 1
 laile 3
+lais 1
 lang 1
 lanse 2
 laoshi 3
@@ -455,7 +456,7 @@ leis 1
 leixiao 1
 leixing 1
 li 9
-lia 1
+lia 2
 liabian 1
 liage 5
 lianbiao 2
@@ -464,6 +465,7 @@ lianxi 1
 liao 1
 liaojie 2
 liaoyihier 1
+liatou 1
 lie 4
 liebiao 1
 liji 2
@@ -624,7 +626,7 @@ ruhe 28
 ruhebanlituishui 1
 ruhezaimougedianweisuiyiting 1
 ruhezuo 1
-s 4
+s 5
 sa 1
 sange 2
 sanguosha 1
@@ -739,7 +741,7 @@ tishi 6
 tixi 1
 togbu 1
 tongzhigonggao 1
-tou 3
+tou 4
 tu 2
 tubiao 3
 w 2
@@ -759,6 +761,7 @@ weishenm 3
 weiwo 1
 weiyidongci 1
 weiyu 4 5
+weizhi 2 2
 wen 8
 wenda 1
 wendu 4
