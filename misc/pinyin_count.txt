@@ -355,7 +355,7 @@ husain 1
 huze 1
 javas 1
 jeliu 1
-ji 5 2
+ji 5 4
 jia 4
 jiale 1
 jian 22
@@ -945,6 +945,7 @@ yis 4
 yitian 3
 yitianzhong 1
 yiwenju 3
+yixia 2
 yixie 1
 yiyi 6
 yizhengtian 1
