@@ -94,7 +94,7 @@ cengji 1
 ceshi 18
 cha 5
 chabuduo 1
-chajian 6
+chajian 8
 chajina 1
 chakan 3
 chang 3
@@ -598,7 +598,7 @@ pengyou 6
 pian 3
 piandi 1
 ping 2
-pingfen 1
+pingfen 3
 put 1
 qi 5
 qian 4 1
