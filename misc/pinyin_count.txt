@@ -172,7 +172,7 @@ daolemimang 1
 daozhuangju 3
 dashi 2
 daxiao 2
-de 111 2
+de 113 2
 deng 3
 denggegefangmian 1
 di 2
@@ -291,7 +291,7 @@ guahudao 1
 guai 1
 guan 4
 guanliyuan 2
-guanyu 2 1
+guanyu 2 3
 guding 3
 guifan 3
 guigus 1
@@ -331,6 +331,7 @@ hu 2
 hua 4 3 1
 huabi 1
 huachu 1
+hualihusao 1
 huan 4
 huanbi 1
 huang 1
@@ -416,7 +417,7 @@ jisuanji 1
 jisuanluoji 1
 jiu 7 6
 jiuhenqiguaile 1
-jiushi 15 11
+jiushi 17 11
 jiux 1
 jiuyao 2
 jiyao 1 1
@@ -459,6 +460,7 @@ kuangjia 1
 kuanyidian 1
 l 3
 lai 8
+laige 2
 laijinx 1
 laile 3
 lais 1
@@ -679,7 +681,7 @@ shejiguifan 1
 shen 1
 shenbxia 1
 shenfenzhao 1
-shengc 3
+shengc 5
 shengcheng 8
 shenm 2
 shenma 4
@@ -918,7 +920,7 @@ yiban 2
 yibanweiyu 1
 yibanweiyujushou 1
 yibanweiyuweiyudongchi 1
-yibiaopan 1
+yibiaopan 3
 yibuhanshu 1
 yican 1
 yidian 2
