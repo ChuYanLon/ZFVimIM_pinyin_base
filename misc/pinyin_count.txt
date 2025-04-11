@@ -156,7 +156,7 @@ dangangongzuo 1
 danganguanli 1
 danganshuliang 1
 dangfa 1
-dangqian 6
+dangqian 8
 danrandeshi 1
 danreng 1
 dans 7
@@ -436,6 +436,7 @@ ke 3
 keyi 8
 kongqizhil 3
 kongqizhiliang 3
+kongzhi 2
 ku 3
 kuacangku 1
 kuai 1
@@ -647,7 +648,8 @@ shanchu 4
 shandong 5
 shang 6
 shangsheng 2
-shangxia 1 1
+shangxi 1
+shangxia 3 1
 shangyhue 1
 shao 1
 shashiq 1
@@ -762,7 +764,7 @@ weishenm 3
 weiwo 1
 weiyidongci 1
 weiyu 4 5
-weizhi 2 2
+weizhi 4 4
 wen 8
 wenda 1
 wendu 4
