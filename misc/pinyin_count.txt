@@ -972,7 +972,7 @@ youzhuan 5
 yu 2 2
 yuan 1
 yuanjiao 4
-yuansu 3
+yuansu 5
 yue 3
 yuefen 1
 yufa 2
@@ -1058,6 +1058,7 @@ zhuzhuangtu 1
 zi 3
 zidinghgua 1
 zidinghua 1
+zidingyi 1
 zidoghua 1
 zidonghua 2
 ziduan 1

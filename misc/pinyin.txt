@@ -38366,6 +38366,7 @@ zidingfengerlai 自顶峰而来
 zidinghgua 子定和挂
 zidinghua 子定话
 zidingxiang 紫丁香
+zidingyi 自定义
 zidingyishuxing 自定义属性
 zidingyizhiling 自定义指令
 zidoghua 自动化
