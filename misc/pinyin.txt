@@ -517,6 +517,7 @@ baifei 白肺
 baifeigongfu 白费工夫
 baifen 拜坟
 baifenbaiyouxiaoyufang 百分百有效预防
+baifenbi 拜坟比 百分比
 baifeng 百丰
 baifenzhibashi 百分之八十
 baifenzhijiushi 百分之九十
@@ -12755,6 +12756,7 @@ jisi 极丝
 jisiren 挤死人
 jisishenian 己巳蛇年
 jisiwole 急死我了
+jisua 即苏阿
 jisuan 计算
 jisuanchuangzaoweilai 计算创造未来
 jisuanji 计算机
