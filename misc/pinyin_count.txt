@@ -445,7 +445,7 @@ kapian 1
 ke 3
 keyi 8
 kongqizhil 3
-kongqizhiliang 3
+kongqizhiliang 5
 kongzhi 2
 ku 3
 kuacangku 1
@@ -789,7 +789,7 @@ wenjianmingzi 1
 wenjianzhongba 1
 wenjiuan 1
 wensdu 1
-wensidu 1
+wensidu 3
 wensifdu 5
 wensifu 1
 wenti 3
@@ -1018,7 +1018,7 @@ zhezhong 1
 zhezhongde 1
 zhge 1
 zhi 4 2 2
-zhibiao 4
+zhibiao 8
 zhichi 4
 zhidao 6 3
 zhihou 3
