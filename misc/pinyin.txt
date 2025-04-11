@@ -1719,6 +1719,7 @@ bingbingle 冰冰乐
 bingbu 并不
 bingbushi 并不是
 bingbuxiangzheyang 并不想这样
+bingbuzhichide 并不支持的
 bingcui 冰萃
 bingdai 冰袋
 bingdandan 饼蛋蛋
@@ -2127,6 +2128,7 @@ bukenenga 不可能啊
 bukenengba 不可能吧
 bukeqi 不客气
 bukexuanzhong 不可选中
+bukeyi 不可以
 bukeyia 不可以啊
 bukeyide 不可以的
 bukeyidi 不可以的
@@ -6157,6 +6159,7 @@ duofangjiejiuhuijia 多方解救回家
 duofangliangtian 多放两天
 duofawenzhang 多发文章
 duofenbianlv 多分辨率
+duog 多高
 duoge 多个
 duogongnengtiao 多功能条
 duoguanla 夺冠啦
@@ -14366,6 +14369,7 @@ lailema 来了吗
 lailemei 来了没
 lailemo 来了没
 laileya 来了呀
+laileyige 来了异格
 lailo 来咯
 lailuo 来咯
 lailuozhi 来罗织
@@ -20718,6 +20722,7 @@ pinduoduochuangshiren 拼多多创始人
 pinduoduogujia 拼多多股价
 pinduoduozhuli 拼多多助力
 pinfanfenpeishifangziyuan 频繁分配释放资源
+pinfen 评分
 ping 屏 平 评 瓶 凭 萍 乒 苹 坪 枰 娉 俜 鲆 倗 冯 凴 呯 塀 娦 屛 岼 帡 帲 幈 慿 憑 檘 泙 洴 涄 淜 焩 玶 甁 甹 砯 砰 硑 秤 竮 箳 簈 缾 聠 胓 艵 荓 蓱 蘋 蚲 蛢 評 軿 輧 郱 鉼 頩 馮 鮃
 pinganan 平安安
 pinganguidui 平安归队
@@ -23505,6 +23510,7 @@ shejiduiduiyuan 射击队队员
 shejiduihaoniu 射击队好牛
 shejiguifan 设计规范
 shejimoshi 设计模式
+shejitu 设计图
 shejunqingdan 涉军清单
 shekongle 社恐了
 shelaiyunzhuan 蛇来运转
@@ -24068,6 +24074,7 @@ sheyingzuopinbanquan 摄影作品版权
 sheyuan 蛇园
 shezhi 设置
 shezhichengxutubiao 设置程序图标
+shgeji 时候搁几
 shi 时 是 式 师 试 使 室 始 十 事 实 世 市 识 士 诗 失 史 视 示 食 势 石 释 施 适 氏 驶 饰 尸 拾 逝 湿 誓 狮 嗜 蚀 嘘 屎 侍 匙 峙 仕 恃 柿 轼 矢 噬 拭 虱 弑 蓍 埘 莳 炻 谥 鲥 豕 贳 铈 螫 舐 筮 鲺 酾 丗 乨 亊 什 似 佀 佦 兘 冟 勢 卋 厔 叓 呞 呩 咶 唑 啇 噓 埶 堤 塒 奭 姼 媞 嬕 実 宩 宲 寔 實 寺 屍 峕 崼 嵵 師 弒 彖 徥 忕 忯 恀 惿 戺 提 揓 斯 旹 昰 時 枾 柹 栻 楴 榁 榯 檡 殖 汁 沶 洂 浉 液 湜 湤 溡 溮 溼 澤 澨 濕 烒 煶 狧 狶 獅 瑡 畤 痑 眂 眎 眡 睗 礻 祏 禵 秲 竍 笶 笹 筛 箷 篒 篩 簭 籂 籭 絁 繹 绎 耆 肢 胑 舍 舓 葹 蒒 蒔 蝕 蝨 褆 褷 襫 襹 視 觢 訑 試 詩 諟 諡 謚 識 貰 赫 跩 軾 辻 遈 遞 適 遰 遾 邿 郝 醳 釃 釈 釋 釶 鈰 鉂 鉃 鉇 鉈 鉐 鉽 銴 鍉 鍦 鎩 铊 铩 飠 飭 飾 餙 餝 饣 饬 馶 駛 魳 鮖 鯴 鰘 鰣 鰤 鳲 鳾 鶳 鸤 鼫 鼭 齛 齥
 shia 是吖
 shian 食案
@@ -24788,6 +24795,7 @@ shuangguiqunyanfasheng 双轨群演发声
 shuanghangmu 双航母
 shuanghonghui 双红会
 shuanghu 双虎
+shuanghuan 双环
 shuangji 双戟
 shuangjian 双减
 shuangjiang 霜降
@@ -34403,7 +34411,7 @@ yongyuanhuainian 永远怀念
 yongyuanziyou 永远自由
 yongzhepi 勇者皮
 yongzhou 永昼
-you 有 由 尤 右 又 友 游 油 优 邮 幽 忧 犹 悠 幼 诱 佑 黝 攸 呦 酉 柚 鱿 莠 囿 鼬 铀 卣 猷 牖 铕 疣 蚰 蝣 釉 蝤 繇 莜 侑 莸 宥 蚴 尢 丣 亴 偤 優 冘 叹 哊 唀 嚘 坳 奥 妋 姷 孧 尣 峟 峳 庮 怞 怣 怮 憂 懮 戭 扰 揂 揄 斿 栯 梄 梎 楢 槱 櫌 櫾 汓 汼 沋 泅 泈 泑 浟 湵 滺 瀀 牗 牰 狖 猶 獶 甴 痏 祐 禉 秞 糿 纋 羐 羑 羗 耰 聈 聱 肬 脜 脩 苃 莤 蒏 蕕 蚘 蜏 褎 褏 訧 誘 貁 輏 輶 迶 逌 逰 遊 邎 郵 鄾 酭 鈾 銪 銹 锈 駀 魷 鮋 鲉 麀
+you 有 尤 由 右 又 友 游 油 优 邮 幽 忧 犹 悠 幼 诱 佑 黝 攸 呦 酉 柚 鱿 莠 囿 鼬 铀 卣 猷 牖 铕 疣 蚰 蝣 釉 蝤 繇 莜 侑 莸 宥 蚴 尢 丣 亴 偤 優 冘 叹 哊 唀 嚘 坳 奥 妋 姷 孧 尣 峟 峳 庮 怞 怣 怮 憂 懮 戭 扰 揂 揄 斿 栯 梄 梎 楢 槱 櫌 櫾 汓 汼 沋 泅 泈 泑 浟 湵 滺 瀀 牗 牰 狖 猶 獶 甴 痏 祐 禉 秞 糿 纋 羐 羑 羗 耰 聈 聱 肬 脜 脩 苃 莤 蒏 蕕 蚘 蜏 褎 褏 訧 誘 貁 輏 輶 迶 逌 逰 遊 邎 郵 鄾 酭 鈾 銪 銹 锈 駀 魷 鮋 鲉 麀
 youai 有爱
 youaijiubupa 有爱就不怕
 youandao 幽暗岛
@@ -37343,6 +37351,7 @@ zhipai 指派
 zhipailaile 直拍来了
 zhipin 制品
 zhipuqingyan 智谱清言
+zhiqian 值前
 zhiqianhan 致歉函
 zhiqinxiao 致秦骁
 zhiqiulianai 直球恋爱
