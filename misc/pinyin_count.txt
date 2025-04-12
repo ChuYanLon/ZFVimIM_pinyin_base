@@ -222,6 +222,7 @@ dongce 2
 dongci 19
 donghua 12
 dongmingc 1
+dongtai 2
 dongtaigengx 1
 dongxi 7
 dongzuo 3
@@ -303,7 +304,7 @@ genggao 1
 genghao 1
 genghaode 1
 genghuanyigesuanfa 1
-gengx 1
+gengx 3
 gengxin 2
 genju 2
 genmulu 1
@@ -379,7 +380,7 @@ huizai 1
 hun 1
 huo 1
 huoq 1
-huoqu 26
+huoqu 28
 huoqudao 3
 huoz 7
 huoze 1
@@ -561,6 +562,7 @@ meiy 1
 meiyou 4
 meiyouba 1
 meiyoubanfa 1
+meizhao 1
 mian 3
 mimangdyitian 1
 minai 1
@@ -996,7 +998,7 @@ xyiai 1
 ya 7 2
 yan 1
 yanchi 2
-yangmi 3
+yangmi 5
 yangzi 1
 yanse 4
 yao 24
@@ -1193,6 +1195,7 @@ zuijiandan 3
 zuijiandande 3
 zuijin 2
 zuishao 1
+zuix 1
 zuixgengx 1
 zuixiaozhi 1
 zuizuomian 1
