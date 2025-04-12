@@ -25147,6 +25147,7 @@ shuohuabusuanshu 说话不算数
 shuohuae 说话阿
 shuohuahaoma 说话好吗
 shuohuale 说话了
+shuoing 说明
 shuoji 说记
 shuolaihuachang 说来话长
 shuole 说了
