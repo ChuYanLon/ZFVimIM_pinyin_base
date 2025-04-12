@@ -18535,6 +18535,7 @@ neiluanzui 内乱罪
 neimuer 内穆尔
 neiqianshiranqizaoju 内嵌式燃气灶具
 neiqueshi 那确实
+neiro 内容
 neirong 内容
 neirongfenfawangluo 内容分发网络
 neironghuilaile 内容回来了
@@ -28471,6 +28472,7 @@ woaichiyumi 我爱吃玉米
 woaichizheyangde 我爱吃这样的
 woaidenaxieren 我爱的那些人
 woaijigeci 我爱记歌词
+woaini 我爱你
 woainia 我爱你啊
 woaisinile 我爱死你了
 woaisiniliao 我爱死你了
@@ -35581,6 +35583,7 @@ zaici 在此
 zaiciceshi 再次测试
 zaicimaoxian 再次冒险
 zaiciweida 再次伟大
+zaidangqianmulu 在当前目录
 zaidapai 在打牌
 zaidea 在的啊
 zaidengdongtianfanchang 再等冬天翻唱

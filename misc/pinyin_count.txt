@@ -1,7 +1,7 @@
 a 4
 ai 6
 aijiuyigezi 1
-aini 1
+aini 2
 aiqing 4
 aiwujiwu 2
 aiya 1
@@ -133,7 +133,7 @@ chuagjian 1
 chuangjian 47
 chuangjianxuni 1
 chuangjianyge 1
-chuangjianyige 6
+chuangjianyige 8
 chuangkou 3
 chuangkoudaxiao 1
 chuangkouyidong 1
@@ -603,6 +603,7 @@ neibianju 1
 neibu 4
 neihuan 9
 neiqianshiranqizaoju 1
+neiro 1
 neirong 8
 nen 4
 neng 1
@@ -759,7 +760,7 @@ shenm 2
 shenma 4
 shezhi 6
 shgeji 1
-shi 101 54 2 2
+shi 103 54 2 2
 shibushiyao 1
 shijia 4
 shijian 10
@@ -883,7 +884,8 @@ wensifu 1
 wenti 3
 wenzhang 4
 wenzi 4
-wo 54
+wo 55
+woaini 1
 wode 4
 wolai 1
 wolkai 1
@@ -1093,6 +1095,7 @@ z 2
 zai 49 12
 zaichuangjian 1
 zaichuangjianyige 1
+zaidangqianmulu 1
 zaijiaosilimianyouliagenanhaizi 1
 zaiku 2
 zaikudangan 1
