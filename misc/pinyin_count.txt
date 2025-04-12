@@ -12,7 +12,7 @@ anli 3
 anzhao 2
 aotemanlaile 1
 aqzhengz 3
-ba 23 18
+ba 25 20
 baba 2
 baga 2
 bai 3
@@ -321,6 +321,7 @@ gua 1
 guahudao 1
 guai 1
 guan 4
+guanbi 2
 guanliyuan 2
 guanyu 2 3
 guding 3
@@ -339,7 +340,7 @@ hanshu 26
 hao 64 4
 haol 3
 haolaike 2
-haole 8
+haole 10 1
 haoshu 1
 haowande 1
 haox 1
@@ -537,7 +538,7 @@ limian 29
 limiande 1
 limina 1
 liu 4
-liulanq 3
+liulanq 5
 liuxing 1
 long 1
 lu 1
