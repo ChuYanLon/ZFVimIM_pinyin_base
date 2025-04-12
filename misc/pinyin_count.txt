@@ -757,7 +757,7 @@ shgeji 1
 shi 101 54 2 2
 shibushiyao 1
 shijia 4
-shijian 8
+shijian 10
 shijiandaili 4
 shijiande 1
 shil 1
@@ -1192,6 +1192,7 @@ zuijiandan 3
 zuijiandande 3
 zuijin 2
 zuishao 1
+zuixgengx 1
 zuixiaozhi 1
 zuizuomian 1
 zuji 1
