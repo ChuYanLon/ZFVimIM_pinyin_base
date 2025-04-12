@@ -185,7 +185,7 @@ danreng 1
 dans 11
 dansan 2
 danshi 6
-dao 11
+dao 13
 daochuyige 1
 daole 3
 daolemimang 1
@@ -193,7 +193,7 @@ daozhuangju 3
 dashi 4 1
 dashiqing 1
 daxiao 2
-de 135 2
+de 137 2
 deng 5
 denggegefangmian 1
 di 2
@@ -625,13 +625,14 @@ nikeyi 6
 nima 1
 nimaa 1
 nin 1
-nineng 11 7
+nineng 13 7
 ninenggansha 5
 ninengzuosha 1
 ninne 1
 ninneg 1 1
 ninneggansha 3
 ninneggnahsa 1
+ninng 1
 nishangmian 1
 nishi 4
 nishibenrenma 2
@@ -800,7 +801,7 @@ si 1
 sijian 1
 siren 1
 sou 2
-sous 1
+sous 5
 su 1
 suanfa 2
 sui 2
@@ -919,6 +920,7 @@ xiamian 5
 xiamiande 4
 xian 6
 xiang 7
+xiangdao 2
 xiangguan 2
 xianghu 4
 xianghuzhaogu 3
@@ -969,7 +971,7 @@ xinlizhiyuns 1
 xinrongci 1
 xinruku 1
 xinwen 4 4
-xinxi 4
+xinxi 6
 xiqiyangyguodan 5
 xitong 2
 xiu 1
@@ -1051,6 +1053,7 @@ yixie 1
 yiyi 6
 yizhengtian 1
 yizhi 1
+yizhidao 1
 yizhongjushi 1
 yizhongwuligan 1
 yong 5

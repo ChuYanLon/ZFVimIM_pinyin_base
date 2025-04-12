@@ -19458,6 +19458,7 @@ ninne 您呢
 ninneg 您呢给 你能
 ninneggansha 你能干啥
 ninneggnahsa 你能干啥
+ninng 你能
 ninni 您呢
 ninshenghuoyukuai 您生活愉快
 ninshi 您是
@@ -34327,6 +34328,7 @@ yizhenglunhuanshangchang 易峥轮换上场
 yizhengtian 一整天
 yizhengtongcha 一证通查
 yizhi 一致
+yizhidao 一直到
 yizhidaoxianzai 一直到现在
 yizhifangpao 一直放炮
 yizhifenbi 一支粉笔
