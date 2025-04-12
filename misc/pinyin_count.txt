@@ -139,7 +139,7 @@ chuangkoudaxiao 1
 chuangkouyidong 1
 chuanjian 2
 chujie 1
-chulai 3
+chulai 4
 chuli 6 5
 chuliyixia 2
 chunjie 2
@@ -530,8 +530,9 @@ liao 1
 liaojie 2
 liaoyihier 1
 liatou 1
-lie 4
+lie 5
 liebiao 1
+liechulai 1
 liji 2
 lijie 2
 limian 29
@@ -626,7 +627,7 @@ nikeyi 6
 nima 1
 nimaa 1
 nin 1
-nineng 13 7
+nineng 15 9
 ninenggansha 5
 ninengzuosha 1
 ninne 1
@@ -1209,7 +1210,7 @@ zuo 16
 zuole 2
 zuolemeiweideyic 1
 zuomian 3
-zuosha 9
+zuosha 11
 zuotian 1
 zuowei 1
 zuozhuan 1
