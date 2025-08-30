@@ -331,8 +331,9 @@ guojia 2
 gushi 18 13
 gushigushi 1 1
 gwo 1
-h 3
-ha 2
+h 4
+ha 3
+haha 1
 hai 1
 hanchu 1
 hang 11
@@ -617,7 +618,7 @@ nibaba 9
 nibushi 1
 nichuliyixia 1
 niha 11
-nihao 490
+nihao 492
 nihaopianl 1
 nihaoshijianwohenxihuan 5
 nihaoya 3
@@ -639,7 +640,7 @@ ninng 1
 nishangmian 1
 nishi 4
 nishibenrenma 2
-nishishui 13
+nishishui 14
 nishshui 1
 nishui 1
 niu 4
@@ -775,7 +776,7 @@ shiyon 1
 shiyong 14 7
 shiyongde 3
 shou 6
-shoufu 1
+shoufu 2
 shouye 8
 shu 14 4
 shuai 2
@@ -893,7 +894,7 @@ women 3
 womennengweinizuosha 1
 wos 1
 woshanle 2
-woshi 52
+woshi 54
 woshiyaozai 3
 woshiyigezhongwenshurufa 1
 woshizhongguoren 2
