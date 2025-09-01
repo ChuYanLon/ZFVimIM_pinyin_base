@@ -620,7 +620,7 @@ nibaba 9
 nibushi 1
 nichuliyixia 1
 niha 11
-nihao 496
+nihao 497
 nihaopianl 1
 nihaoshijianwohenxihuan 5
 nihaoya 3
@@ -640,7 +640,7 @@ ninneggansha 3
 ninneggnahsa 1
 ninng 1
 nishangmian 1
-nishi 4
+nishi 5
 nishibenrenma 2
 nishishui 15
 nishshui 1
@@ -786,7 +786,7 @@ shuanghuan 7
 shuangxiang 1
 shuchu 2
 shufangfa 1
-shui 7 4
+shui 8 5
 shuishi 1
 shuju 12
 shuliang 5
@@ -897,7 +897,7 @@ women 3
 womennengweinizuosha 1
 wos 1
 woshanle 2
-woshi 57
+woshi 58
 woshiyaozai 3
 woshiyigezhongwenshurufa 1
 woshizhongguoren 2
@@ -967,7 +967,7 @@ xieyigte 1
 xieyipian 1
 xieyixia 3
 xiezhushi 1
-xiguameimei 3
+xiguameimei 4
 xihngs 1
 xihongsshoufu 1
 xihuameimei 1
