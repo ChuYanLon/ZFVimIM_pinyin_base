@@ -620,7 +620,7 @@ nibaba 9
 nibushi 1
 nichuliyixia 1
 niha 11
-nihao 497
+nihao 498
 nihaopianl 1
 nihaoshijianwohenxihuan 5
 nihaoya 3
@@ -897,7 +897,7 @@ women 3
 womennengweinizuosha 1
 wos 1
 woshanle 2
-woshi 58
+woshi 59
 woshiyaozai 3
 woshiyigezhongwenshurufa 1
 woshizhongguoren 2
