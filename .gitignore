@@ -1,3 +1,29 @@
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+.angular/
+
+# Editor
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Compiled output
+*.js.map
+
 .cache
 ./new_pinyin.txt
 **/**/new_pinyin.txt
