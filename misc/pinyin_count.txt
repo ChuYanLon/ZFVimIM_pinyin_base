@@ -702,7 +702,7 @@ rang 1
 rangmoxing 1
 rangyigedongxiweirao 1
 ranhou 24
-ren 4
+ren 5
 rensheng 2
 renwu 4
 renyuan 1
@@ -1160,6 +1160,7 @@ zhong 31
 zhongde 1
 zhongguo 4
 zhongguorenminduiwaiyouhaoxiehui 2
+zhonghua 1
 zhongtu 1
 zhongwen 13
 zhongx 1
