@@ -165,7 +165,7 @@ cuo 1
 cuole 1
 cuowu 2
 d 9
-da 3
+da 6
 dabaiyang 2
 dage 2
 dai 4 1
@@ -243,6 +243,7 @@ duo 6
 duog 1
 duoshao 1
 duoxianc 1
+e 1
 eima 1
 elema 1
 en 1
@@ -545,7 +546,7 @@ liu 4
 liulanq 5
 liuxing 1
 long 1
-lu 1
+lu 2
 lujing 2
 luoji 2
 lv 1
@@ -620,7 +621,7 @@ nibaba 9
 nibushi 1
 nichuliyixia 1
 niha 11
-nihao 502
+nihao 503
 nihaopianl 1
 nihaoshijianwohenxihuan 5
 nihaoya 3
@@ -666,8 +667,9 @@ pengyou 6
 pian 3
 piandi 1
 pinfen 1
-ping 2
+ping 4
 pingfen 5
+pingji 1
 pu 1
 put 1
 qi 5
@@ -788,7 +790,7 @@ shuchu 2
 shufangfa 1
 shui 8 5
 shuishi 1
-shuju 12
+shuju 14
 shuliang 5
 shulliang 1
 shuo 3
